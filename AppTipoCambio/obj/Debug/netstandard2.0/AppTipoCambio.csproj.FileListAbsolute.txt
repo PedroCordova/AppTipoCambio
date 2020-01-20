@@ -1,0 +1,26 @@
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\bin\Debug\netstandard2.0\AppTipoCambio.deps.json
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\bin\Debug\netstandard2.0\AppTipoCambio.dll
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\AppTipoCambio.csprojAssemblyReference.cache
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\AppTipoCambio.AssemblyInfoInputs.cache
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\AppTipoCambio.AssemblyInfo.cs
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\bin\Debug\netstandard2.0\ref\AppTipoCambio.dll
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\bin\Debug\netstandard2.0\AppTipoCambio.pdb
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\AppTipoCambio.dll
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\ref\AppTipoCambio.dll
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\AppTipoCambio.pdb
+C:\Users\Peter Cordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\bin\Debug\netstandard2.0\AppTipoCambio.deps.json
+C:\Users\Peter Cordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\bin\Debug\netstandard2.0\AppTipoCambio.dll
+C:\Users\Peter Cordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\bin\Debug\netstandard2.0\ref\AppTipoCambio.dll
+C:\Users\Peter Cordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\bin\Debug\netstandard2.0\AppTipoCambio.pdb
+C:\Users\Peter Cordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\AppTipoCambio.csprojAssemblyReference.cache
+C:\Users\Peter Cordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Peter Cordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Peter Cordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\AppTipoCambio.AssemblyInfoInputs.cache
+C:\Users\Peter Cordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\AppTipoCambio.AssemblyInfo.cs
+C:\Users\Peter Cordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\AppTipoCambio.dll
+C:\Users\Peter Cordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\ref\AppTipoCambio.dll
+C:\Users\Peter Cordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\AppTipoCambio.pdb
+C:\Users\Peter Cordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio\obj\Debug\netstandard2.0\XamlC.stamp

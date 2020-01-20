@@ -1,0 +1,1 @@
+C:\Users\PedroCordova\Documents\Visual Studio 2019\Projects\AppTipoCambio\AppTipoCambio.UWP\AppTipoCambio.UWP.csproj;x86
